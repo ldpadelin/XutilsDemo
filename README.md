@@ -13,7 +13,7 @@ Add it in your root build.gradle at the end of repositories:
   
   Step 2. Add the dependency
   
-  dependencies {
+	dependencies {
 	        compile 'com.github.ldpadelin:XutilsDemo:1.0'
 	}
 
