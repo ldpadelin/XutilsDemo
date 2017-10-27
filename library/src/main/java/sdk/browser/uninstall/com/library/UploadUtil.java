@@ -24,7 +24,6 @@ public class UploadUtil {
 
     /**
      * Android上传文件到服务端
-     *
      * @param file       需要上传的文件
      * @param RequestURL 请求的rul
      * @return 返回响应的内容
